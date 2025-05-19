@@ -1,4 +1,4 @@
-# IBM DA
+# IBM C1_M1
 
 # Course 1 - Introduction to data analytics
 
