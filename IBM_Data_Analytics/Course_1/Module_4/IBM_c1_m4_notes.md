@@ -222,7 +222,9 @@ Data mining is the process of discovering patterns, trends, or insights from lar
 
 Data wrangling (also known as data preprocessing or munging) involves cleaning, transforming, and structuring raw data into a usable format for analysis. Since raw data is often messy, inconsistent, or incomplete, wrangling ensures it's accurate, standardized, and ready for modeling.
 
-1️⃣ **Data Collection:** Gather raw data from various sources (databases, APIs, surveys, logs, etc.). 2️⃣ **Data Wrangling:**Clean, preprocess, and transform the data to make it consistent and usable. 3️⃣ **Data Mining:** Apply statistical and machine learning techniques to discover insights, patterns, or predictions.
+1️⃣ **Data Collection:** Gather raw data from various sources (databases, APIs, surveys, logs, etc.). 
+2️⃣ **Data Wrangling:**Clean, preprocess, and transform the data to make it consistent and usable. 
+3️⃣ **Data Mining:** Apply statistical and machine learning techniques to discover insights, patterns, or predictions.
 
 ---
 
