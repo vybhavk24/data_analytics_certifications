@@ -1,0 +1,6 @@
+Order_Id,Amount,Profit,Quantity,Category,Sub-category,PaymentMode,Order_date,CustomerName,State,City,Year-Month
+1,500.0,50,5,Electronics,Laptop,Credit Card,2024/05/20,Alice Johnson,California,Los Angeles,2024-05
+2,NaN,30,3,Furniture,Chair,Net Banking,05-22-2024,Bob Smith,Texas,Austin,2024-05
+3,750.0,NaN,2,Electronics,Smartphone,Credit Card,2024-05-21,Charlie,California,San Francisco,2024-05
+4,1000,120,4,Home Decor,Painting,Cash,2024-05-20,Alice Johnson,,San Diego,2024-05
+5,500.0,40,5,Electronics,Smartphone,Credit Card,2024-05-23,Alice Johnson,California,Los Angeles,2024-05
