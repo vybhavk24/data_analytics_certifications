@@ -6,6 +6,7 @@ This professional certificate from IBM prepares learners for a career in data an
 
 The folder structure for this certificate follows the pattern shown below, where each course is broken down into modules containing notes and practice labs:
 
+```
 IBM Data Analyst Professional Certificate/
 ├── 1. Introduction to Data Analytics/
 │   ├── Module_1/
@@ -28,6 +29,7 @@ IBM Data Analyst Professional Certificate/
 ├── 8. Data Visualization with Python/
 ├── 9. IBM Data Analyst Capstone Project/
 ├── 10. Generative AI for Data Analyst/
+```
 
 ### What's Included
 
